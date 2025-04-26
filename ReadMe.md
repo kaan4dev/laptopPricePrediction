@@ -1,7 +1,3 @@
-Here’s an improved and polished version of the README for your **laptopPricePrediction** repository:
-
----
-
 # 💻 Laptop Price Prediction
 
 Welcome to the **Laptop Price Prediction** project! This repository is a machine learning-based initiative aimed at predicting laptop prices based on their specifications, brand, and other features. The goal is to explore how various laptop attributes influence their market value, providing valuable insights into pricing strategies.
